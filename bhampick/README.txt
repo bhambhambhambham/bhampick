@@ -1,4 +1,4 @@
-Nodes used :
+Node used :
 - pick : main
 - broadcast : broadcast tf
 - testclient : node for publishing service (rosservice call /boxpose doesn't work with negative values)
